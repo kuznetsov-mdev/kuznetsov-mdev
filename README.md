@@ -1,4 +1,4 @@
-<h1 align="center">Привет👋 Меня зовут Глеб!</h1>
+<h1 align="center">¡Hola! Меня зовут Глеб</h1>
 
 ###
 
@@ -12,9 +12,10 @@
 
 <h3 align="left">🛠 Технологии:</h3>
 
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="45" height="36" alt="Kotlin" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="45" height="36" alt="Java" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" height="36" alt="MySQL" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="45" height="36" alt="Git" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png" width="45" height="36" alt="Gradle" /></a>
-</p>
+![Static Badge](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/Jetpack_Compose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/Retrofit-%2327c2a0?style=for-the-badge&logo=square&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/Room-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=%235c5c5c)
 
 ###
 
