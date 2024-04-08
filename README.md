@@ -10,15 +10,29 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">Languages:</h3>
 
 ![Static Badge](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=%235c5c5c)
-![Static Badge](https://img.shields.io/badge/Jetpack_Compose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=%235c5c5c)
-![Static Badge](https://img.shields.io/badge/Retrofit-%2327c2a0?style=for-the-badge&logo=square&logoColor=white&labelColor=%235c5c5c)
-![Static Badge](https://img.shields.io/badge/Room-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/Java-%23F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/SQL-%23007dba?style=for-the-badge&logo=zaim&logoColor=white&labelColor=%235c5c5c)
 
 ###
 
-<h3 align="left">🔧 Инструменты:</h3>
+<h3 align="left">Libs & Frameworks:</h3>
+
+![Static Badge](https://img.shields.io/badge/Jetpack_Compose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/Retrofit-%2327c2a0?style=for-the-badge&logo=square&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/Room-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/Auth0-%23635dff?style=for-the-badge&logo=auth0&logoColor=white&labelColor=%235c5c5c)
+
+###
+
+<h3 align="left">Tools:</h3>
+
+![Static Badge](https://img.shields.io/badge/Gradle-%23078c00?style=for-the-badge&logo=gradle&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/Flipper-%230467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=%235c5c5c)
+<!---![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=%235c5c5c)>-->
 
 ###
