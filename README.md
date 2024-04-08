@@ -33,6 +33,7 @@
 ![Static Badge](https://img.shields.io/badge/Gradle-%23078c00?style=for-the-badge&logo=gradle&logoColor=white&labelColor=%235c5c5c)
 ![Static Badge](https://img.shields.io/badge/Flipper-%230467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=%235c5c5c)
 ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=%235c5c5c)
+![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&color=%235c5c5c)
 <!---![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=%235c5c5c)>-->
 
 ###
